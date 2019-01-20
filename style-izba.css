@@ -6,7 +6,7 @@
   body {
     margin: 0;
     padding: 0 15px 80px;
-    background-image: radial-gradient(circle farthest-corner at -10% -5%, #2B2B2B 0%, #7D7D7D 30%, #00b8ff 80%, #248FFF 100%);
+    background-image: radial-gradient(circle farthest-corner at -10% -5%, rgb(23, 173, 18) 0%, rgb(26, 119, 14) 30%, #e2c628 80%, #248FFF 100%);
     background-size: 100% 4000px;
   
     font-family: 'Open Sans', sans-serif;
